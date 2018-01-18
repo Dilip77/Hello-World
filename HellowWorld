@@ -1,0 +1,5 @@
+Public class HellowWorld{
+    Public void callWorld(){
+        System.debug('Hellow world');
+    }
+}
